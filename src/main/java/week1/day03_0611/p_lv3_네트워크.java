@@ -1,3 +1,5 @@
+package week1.day03_0611;
+
 import java.util.*;
 
 class Solution {

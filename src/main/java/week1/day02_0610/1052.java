@@ -1,4 +1,4 @@
-package day02_0610;
+package week1.day02_0610;
 
 import java.io.IOException;
 import java.util.Scanner;

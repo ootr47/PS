@@ -1,4 +1,5 @@
-package day01_0609;
+package week1.day01_0609;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

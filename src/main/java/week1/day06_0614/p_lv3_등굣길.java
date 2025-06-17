@@ -1,3 +1,5 @@
+package week1.day06_0614;
+
 class Solution {
     public int solution(int m, int n, int[][] puddles) {
         int[][] arr = new int[m+1][n+1];

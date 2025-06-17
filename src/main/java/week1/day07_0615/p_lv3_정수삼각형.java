@@ -1,3 +1,5 @@
+package week1.day07_0615;
+
 class Solution {
     public int solution(int[][] triangle) {
         int n = triangle.length;
