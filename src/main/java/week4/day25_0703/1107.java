@@ -1,3 +1,4 @@
+package week4.day25_0703;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.Scanner;
@@ -54,9 +55,8 @@ class Main {
             }
         }
         
-        if (sb.length() > 6) {
-            return;
-        }
+        if (sb.length() > 6) return;
+
 
         for (int i : buttons) {
             search(buttons, target, sb.append(i));
