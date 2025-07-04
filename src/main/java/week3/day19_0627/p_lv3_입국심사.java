@@ -1,3 +1,4 @@
+package week3.day19_0627;
 class Solution {
     public long solution(int n, int[] times) {
         long answer = 0;

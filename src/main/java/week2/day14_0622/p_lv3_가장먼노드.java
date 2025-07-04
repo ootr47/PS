@@ -1,3 +1,5 @@
+package week2.day14_0622;
+
 import java.util.*;
 
 class Solution {
