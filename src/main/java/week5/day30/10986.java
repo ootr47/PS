@@ -1,3 +1,4 @@
+package week5.day30;
 import java.util.*;
 
 public class Main {

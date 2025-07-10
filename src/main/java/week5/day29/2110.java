@@ -1,3 +1,4 @@
+package week5.day29;
 import java.util.*;
 import java.io.IOException;
 import java.util.Scanner;
