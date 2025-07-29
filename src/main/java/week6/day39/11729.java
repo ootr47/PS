@@ -1,3 +1,4 @@
+package week6.day39;
 import java.io.IOException;
 import java.util.Scanner;
 

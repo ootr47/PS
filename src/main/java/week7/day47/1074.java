@@ -1,3 +1,4 @@
+package week7.day47;
 import java.util.Scanner;
 
 class Main {

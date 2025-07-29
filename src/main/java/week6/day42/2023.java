@@ -1,3 +1,4 @@
+package week6.day42;
 import java.util.*;
 import java.io.*;
 

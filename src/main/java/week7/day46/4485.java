@@ -1,3 +1,4 @@
+package week7.day46;
 import java.io.IOException;
 import java.util.Scanner;
 
